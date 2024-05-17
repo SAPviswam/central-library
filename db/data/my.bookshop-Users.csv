@@ -1,0 +1,11 @@
+ID,username,password,name,email,role
+41,user1,password1,John Doe,user1@example.com,student
+42,user2,password2,Jane Smith,user2@example.com,student
+43,admin1,adminpass1,Admin User,admin@example.com,admin
+44,librarian1,librarianpass1,Librarian User,librarian@example.com,librarian
+45,teacher1,teacherpass1,Teacher User,teacher@example.com,teacher
+46,staff1,staffpass1,Staff User,staff@example.com,staff
+47,user3,password3,Michael Johnson,user3@example.com,student
+48,user4,password4,Emily Davis,user4@example.com,student
+49,user5,password5,David Brown,user5@example.com,student
+50,user6,password6,Sarah Wilson,user6@example.com,student
